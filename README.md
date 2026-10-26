@@ -15,9 +15,9 @@ More questions are yet to come,
 
 
 # Credits
-Praxis(Prackalithius) - W guy who helped me learn noodle and even helped with some modcharts,
-Lulu(Lululereg) - Another cool guy who helped with most of the mapping,
-Chillduck(ChillDuck4000) - Someone who was a OG with me and helped made some of the mapping featured,
+### Praxis(Prackalithius) - W guy who helped me learn noodle and even helped with some modcharts,
+### Lulu(Lululereg) - Another cool guy who helped with most of the mapping,
+### Chillduck(ChillDuck4000) - Someone who was a OG with me and helped made some of the mapping featured,
 
 # Mods
 These are mods that will be featured and will always update depending on the new mod i will post alongside said map,
